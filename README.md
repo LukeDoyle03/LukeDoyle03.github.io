@@ -13,7 +13,7 @@
   
   . The xbox one x will be going on sale soon as pre-orders have already started.
   
-  <p>  http://www.xbox.com/en-ie/  </p> 
+  <p>  http://www.xbox.com/en-ie/  </p> 
 
  . <img> src=" ">
         
