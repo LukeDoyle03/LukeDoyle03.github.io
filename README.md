@@ -11,7 +11,7 @@
     <body>
     <p> on this website i will be talking about the latest gaming news </p>
     
-soon as pre-orders have already started.
+The xbox one x will be launching soon soon as pre-orders have already started.
   
   <p>  http://www.xbox.com/en-ie/  </p> 
 
