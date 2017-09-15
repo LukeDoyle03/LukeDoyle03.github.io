@@ -10,13 +10,17 @@
 <strong>welcome to my website</strong>
     <body>
     <p> on this website i will be talking about the latest gaming news </p>
-  
-  . The xbox one x will be going on sale soon as pre-orders have already started.
+    
+soon as pre-orders have already started.
   
   <p>  http://www.xbox.com/en-ie/  </p> 
 
  . <img> src=" ">
-        
+ 
+ . http://steamcharts.com/top 
+ 
+ . The most played game right now is player unknowns battle grounds with over a million players daily
+
     </body>
 
 </html>
