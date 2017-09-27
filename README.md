@@ -13,11 +13,11 @@
     
 The xbox one x will be launching soon soon as pre-orders have already started.
   
-  <p>  http://www.xbox.com/en-ie/  </p> 
+  <a> href="http://www.xbox.com/en-ie/" </a>
 
   <img src="http://www.thetanooki.com/wp-content/uploads/2017/06/170611xboxonex-pic.jpeg ">
  
- .<p> http://steamcharts.com/top </p>
+ .<a> href="http://steamcharts.com/top"</a>
  
  . The most played game right now is player unknowns battle grounds with over a million players daily the game is still in early access but is still one of the most played and the player base is still going to grow because the game will be relesed on xbox later this year
 Recently the game has broke records with over 1.5 million players playing at one time it has sold over 10 million copies in less than a few months.
