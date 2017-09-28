@@ -29,6 +29,10 @@ Recently the game has broke records with over 1.5 million players playing at one
 .<p> Recently apple have announced 2 new iphones the iphone 8 and the iphone x the iphone x will cost a massive 1179 euro and will go upto 1349 euro the new iphone 8 will cost from 845 euro to 939 euro. They will come with new features such as a full screen display, Wireless charging/fast charging support,Face ID,Battery life quoted at 21 hours of talk time and 5.8in Super Retina (2436x1125) OLED edge-to-edge display. </p>
 
 .<img src="http://cdn2.gsmarena.com/vv/pics/apple/apple-iphone-x-6.jpg">
-    </body>
+  
+ .<p> The new specs for the xbox one x= 6 Teraflops, 326GB/s of Memory Bandwidth and advanced, custom silicon, the Scorpio Engine is the world’s most powerful console gaming processor,uses advanced liquid cooling and the supercharger-style centrifugal fan to ensure it stays cool,1TB Internal Storage,4K UHD Blu-ray Optical Disc Drive,WiFi Dual band wireless with Wi-Fi Direct for home networks. </p>
+  
+  </body>
+   
 
 </html>
