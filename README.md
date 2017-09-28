@@ -17,7 +17,7 @@ The xbox one x will be launching soon soon as pre-orders have already started.
 
   <img src="http://www.thetanooki.com/wp-content/uploads/2017/06/170611xboxonex-pic.jpeg ">
  
- .<a> href="http://steamcharts.com/top"</a>
+ .<a> href="http://steamcharts.com/top" </a>
  
  . The most played game right now is player unknowns battle grounds with over a million players daily the game is still in early access but is still one of the most played and the player base is still going to grow because the game will be relesed on xbox later this year
 Recently the game has broke records with over 1.5 million players playing at one time it has sold over 10 million copies in less than a few months.
@@ -26,7 +26,9 @@ Recently the game has broke records with over 1.5 million players playing at one
 
 .<p> The game fortnite has relesed its battle royale gamemode for free on xbox ps4 and pc it is made by the company epic games. Although they have gotten some criticism from people saying it is too simular to player unknowns battlegrounds and that the only real difference being that you can build bases in the mode. </p>
 
-.<p>    
+.<p> Recently apple have announced 2 new iphones the iphone 8 and the iphone x the iphone x will cost a massive 1179 euro and will go upto 1349 euro the new iphone 8 will cost from 845 euro to 939 euro. They will come with new features such as a full screen display, Wireless charging/fast charging support,Face ID,Battery life quoted at 21 hours of talk time and 5.8in Super Retina (2436x1125) OLED edge-to-edge display.<img src"https://www.google.ie/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwinhZuTxsfWAhXiBsAKHYb5ANEQjRwIBw&url=http%3A%2F%2Fwww.highsnobiety.com%2F2017%2F09%2F13%2Fiphone-x-meme-round-up%2F&psig=AFQjCNEZMi4fGo0IMNpvByD5wo1jAe51YA&ust=1506676672629613"> </p>
+
+.<p> 
     </body>
 
 </html>
