@@ -7,6 +7,15 @@
         <title>website</title>
 
     </head>
+    
+    <head>
+<style>
+body {
+    background-image: url("https://cdn.dribbble.com/users/32512/screenshots/2904026/simple_logo_dots.gif");
+}
+</head>
+</style>
+   
 <strong>welcome to my website</strong>
     <body>
     <p> on this website i will be talking about the latest gaming news </p>
