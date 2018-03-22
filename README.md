@@ -9,12 +9,12 @@
     </head>
     
     <head>
-<style>
-body {
-    background-image: url("https://cdn.dribbble.com/users/32512/screenshots/2904026/simple_logo_dots.gif");
+    body {
+    background-image: url("https://cdn.dribbble.com/users/32512/screenshots/2904026/simple_logo_dots.gif");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
 }
-</head>
-</style>
    
 <strong>welcome to my website</strong>
     <body>
